@@ -30,7 +30,7 @@ const copyFile = () => {
     });
 };
 
-module.exports = {
-    writeFilr: writeFile,
+module.exports = { 
+    writeFile: writeFile,
     copyFile: copyFile
 };
